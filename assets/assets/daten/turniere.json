@@ -1,0 +1,68 @@
+{
+  "stand": "2026-07-25",
+  "turniere": [
+    {
+      "name": "DFBV Bundesturniere (Feld/Jagd/3D)",
+      "veranstalter": "Deutscher Feldbogen Sportverband",
+      "land": "Deutschland",
+      "saisonMonat": 6,
+      "termin": "Saison Mai–September — Ausschreibungen beim DFBV",
+      "url": "https://www.dfbv.de",
+      "bild": "hirsch"
+    },
+    {
+      "name": "Deutsche Meisterschaft 3D",
+      "veranstalter": "Deutscher Schützenbund",
+      "land": "Deutschland",
+      "saisonMonat": 9,
+      "termin": "Spätsommer — Qualifikation über die Landesverbände",
+      "url": "https://www.dsb.de",
+      "bild": "reh"
+    },
+    {
+      "name": "IFAA European Bowhunter Championships (EBHC)",
+      "veranstalter": "IFAA",
+      "land": "Europa",
+      "saisonMonat": 8,
+      "termin": "Alle 2 Jahre im Sommer — Termine bei der IFAA",
+      "url": "https://www.ifaa-archery.org",
+      "bild": "wildschwein"
+    },
+    {
+      "name": "IFAA World Bowhunter Championships (WBHC)",
+      "veranstalter": "IFAA",
+      "land": "International",
+      "saisonMonat": 8,
+      "termin": "Alle 2 Jahre — Termine bei der IFAA",
+      "url": "https://www.ifaa-archery.org",
+      "bild": "fuchs"
+    },
+    {
+      "name": "World Archery 3D Championships",
+      "veranstalter": "World Archery",
+      "land": "International",
+      "saisonMonat": 9,
+      "termin": "Termine im World-Archery-Kalender",
+      "url": "https://www.worldarchery.sport",
+      "bild": "dachs"
+    },
+    {
+      "name": "ÖBSV 3D-Bewerbe & Staatsmeisterschaft",
+      "veranstalter": "Österreichischer Bogensportverband",
+      "land": "Österreich",
+      "saisonMonat": 7,
+      "termin": "Saison Frühjahr–Herbst — Kalender beim ÖBSV",
+      "url": "https://www.oebsv.com",
+      "bild": "hase"
+    },
+    {
+      "name": "Swiss Archery 3D-Turniere",
+      "veranstalter": "Swiss Archery Association",
+      "land": "Schweiz",
+      "saisonMonat": 7,
+      "termin": "Saison-Kalender beim Verband",
+      "url": "https://www.swissarchery.org",
+      "bild": "hirsch"
+    }
+  ]
+}
