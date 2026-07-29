@@ -1,5 +1,5 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "url": "https://alonepard10501.github.io/instinct-scoring/Instinct-Scoring.apk",
-  "hinweis": "Spine-Profile antippbar + ins Pfeilsetup uebernehmen; Wertung ans Profil gekoppelt (Standard IFAA); Runde als Parcours speichern; Parcours waehrend der Runde anpassen; Foto + Tierart je Ziel mit Statistik-Auswertung; Parcours-Vorschaubild; neue Motive Baer + 2 Scheiben"
+  "hinweis": "1.9.0: Schuetzenwechsel im Profil, Bilder-Bereich mit Namen/Datum, Parcours-Runden und -Bilder, Ziele in der Historie, Premium-Vergleichstafel, Rosa und Dunkelblau, Scheiben waehlbar, zufaelliger Bildwechsel"
 }
